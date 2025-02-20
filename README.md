@@ -10,16 +10,45 @@ Go to: https://chainlist.org/chain/10143
 
 ➖ Approve in wallet
 
-# Faucet
-Go to: https://testnet.monad.xyz/
+# Faucets
+**All Faucets are overloaded due to huge traffic..**
 
-Accept terms and connect EVM wallet
+**1**
 
-Currently this faucet is not available due to high traffic!!!
+https://testnet.monad.xyz/
 
-**2nd way**
+**2**
 
-Full instructions here: https://t.me/crepto_mining/4583
+https://t.me/crepto_mining/4583
+
+**3**
+
+➖https://www.gas.zip/faucet/monad
+
+**4**
+
+➖https://t.me/monad_faucet_bot
+
+**5**
+
+➖https://thirdweb.com/monad-testnet
+
+**6**
+
+➖https://stake.apr.io/faucet
+
+**7**
+
+➖https://app.mozi.finance/
+
+**8**
+
+➖https://faucet.morkie.xyz/monad
+
+**9**
+
+➖https://owlto.finance/Faucet/Monad
+
 
 # Kinza finance
 
