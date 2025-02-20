@@ -49,6 +49,9 @@ https://t.me/crepto_mining/4583
 
 ➖https://owlto.finance/Faucet/Monad
 
+**10**
+
+https://t.me/faucet_trade_bot
 
 # Kinza finance
 
