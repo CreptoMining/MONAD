@@ -110,13 +110,13 @@ Go to: https://testnet.lilchogstars.com/
 
 ➖ click mint and confirm the transaction
 
-➖ Fill all the required details and click create and confirm the transaction
-
 # Create Meme Coin
 
 Go to: https://testnet.nad.fun/
 
 ➖ Connect wallet and click on create coin
+
+➖ Fill all the required details and click create and confirm the transaction
 
 # Ambient finance
 Go to: https://monad.ambient.finance/
