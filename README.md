@@ -1,5 +1,17 @@
 # MONAD
-A concise guide to joining the Monad Testnet and preparing for the Monad Airdrop. Includes setup, and ecosystem interaction steps for the high-performance, EVM-compatible Layer 1 blockchain.
+
+Monad Labs, is a blockchain company that recently raised **$225 million** in a Series A funding round led by **Paradigm,** making it one of the largest crypto fundraises in 2024; their total funding raised across all rounds is reported to be around **$248 million.** 
+
+**Key points about Monad**:
+
+Focus: A layer-1 blockchain that aims to offer high transaction throughput while maintaining compatibility with the Ethereum Virtual Machine. 
+
+Funding details: The recent **$225 million** Series A round included investors like **Electric Capital, Greenoaks, and Coinbase.** 
+
+Leadership: **Keone Hon** is the co-founder and **CEO of Monad Labs**
+
+
+A concise guide to joining the Monad Testnet and preparing for the Monad Airdrop. Includes setup, and ecosystem interaction steps for the high-performance, EVM-compatible Layer 1 blockchain👇👇👇
 
 # Add Network
 Go to: https://chainlist.org/chain/10143
