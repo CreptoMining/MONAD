@@ -73,6 +73,73 @@ https://t.me/crepto_mining/4583
 
 https://t.me/faucet_trade_bot
 
+# Staking MON
+
+Go to: https://stake.apr.io/
+
+➖ Connect wallet
+
+➖ Enter amount
+
+➖ Click stake and confirm the transaction
+
+➖ Click on withdrawal and withdraw 25% funds of that which you staked.
+
+# Mint Testnet Tokens
+➖ Go to: https://app-monad-testnet.azaar.com/swap?inputCurrency=ETH&outputCurrency=0x6C15057930e0d8724886C09e940c5819fBE65465
+
+➖ Connect wallet
+
+➖ Click on MINT tab and mint some tokens.
+
+➖ After minting, visit the swap tab and swap these minted tokens with each other.
+
+# Domain Registration 
+Go to: https://app.nad.domains/
+
+➖ Connect wallet
+
+➖ Search for a unique name and click on it if it is available
+
+➖ Click register and confirm the transaction
+
+# Mint some NFTS
+Go to: https://testnet.lilchogstars.com/
+
+➖ Connect wallet
+
+➖ click mint and confirm the transaction
+
+➖ Fill all the required details and click create and confirm the transaction
+
+# Create Meme Coin
+
+Go to: https://testnet.nad.fun/
+
+➖ Connect wallet and click on create coin
+
+# Ambient finance
+Go to: https://monad.ambient.finance/
+
+➖ Connect wallet and click on trade
+
+➖ Interact with all the ecosystem, make some swaps and add liquidity
+
+# Voting
+Go to: https://aicraft.fun/projects/fizen?ref=5SE7KNWBJZ
+
+➖ Click on vote and earn and connect wallet
+
+➖ Vote on any given option, if prompted to submit referral code, submit this: 5SE7KNWBJZ
+
+➖ confirm the transaction
+
+# Bean Exchange
+
+Go to: https://swap.bean.exchange/swap  (Currently facing issues)
+
+➖ Make some swaps and also add liquidity after swapping 
+
 # Kinza finance
 
 ⭕✨ Go to: https://monad-test.kinza.finance/#/
