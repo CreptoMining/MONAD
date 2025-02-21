@@ -10,6 +10,14 @@ Funding details: The recent **$225 million** Series A round included investors l
 
 Leadership: **Keone Hon** is the co-founder and **CEO of Monad Labs**
 
+# Strategy
+1: Do daily transactions to stay active on testnet
+
+2: Interact with the ecosystem projects like Kinza finance, noastra finance, opensea, haha wallet, phantom wallet, backpack, owlto, nft mints etc..
+
+3: Kaito and discord interaction, recently berachain and story protocol gave airdrops based on kaito interactions and smart followers, try to boost your X profile and interact more and more, also be active on discord and grab roles..
+
+4: The best thing that I like 😂 is to be active on our telegram channel where we provide all the latest updates.
 
 A concise guide to joining the Monad Testnet and preparing for the Monad Airdrop. Includes setup, and ecosystem interaction steps for the high-performance, EVM-compatible Layer 1 blockchain👇👇👇
 
