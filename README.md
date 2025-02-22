@@ -164,7 +164,7 @@ Go to: https://swap.bean.exchange/swap  (Currently facing issues)
 
 👉 Currently, there is no liquidity in any token. Please wait and try interacting again later.
 
-# Nostra finance
+# Noastra finance
 
 ⭕✨ Go to: https://monad.nostra.finance
 
