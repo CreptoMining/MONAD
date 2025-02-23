@@ -2,12 +2,6 @@
 
 Monad Labs, is a blockchain company that recently raised **$225 million** in a Series A funding round led by **Paradigm,** making it one of the largest crypto fundraises in 2024; their total funding raised across all rounds is reported to be around **$248 million.** 
 
-# Telegram channel for updates
-https://t.me/crepto_mining_news
-
-# Video Guide
-https://youtu.be/dMYvoEQsquM
-
 **Key points about Monad**:
 
 Focus: A layer-1 blockchain that aims to offer high transaction throughput while maintaining compatibility with the Ethereum Virtual Machine. 
@@ -15,6 +9,12 @@ Focus: A layer-1 blockchain that aims to offer high transaction throughput while
 Funding details: The recent **$225 million** Series A round included investors like **Electric Capital, Greenoaks, and Coinbase.** 
 
 Leadership: **Keone Hon** is the co-founder and **CEO of Monad Labs**
+
+# Telegram channel for updates
+https://t.me/crepto_mining_news
+
+# Video Guide
+https://youtu.be/dMYvoEQsquM
 
 # Strategy
 1: Do daily transactions to stay active on testnet
